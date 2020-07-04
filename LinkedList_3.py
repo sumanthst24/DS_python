@@ -1,4 +1,4 @@
-#Insertion of Node at end of the linked list
+#Insertion of Node at the end of the linked list
 
 class Node:
         def __init__(self,dataVal=None):
