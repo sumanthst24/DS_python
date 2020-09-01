@@ -8,7 +8,6 @@ class Node:
 
         
     def Print(self):
-
         print(self.data)
 
 
